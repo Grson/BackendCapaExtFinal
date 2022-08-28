@@ -1,0 +1,156 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "rodriguez@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "email": "juan@gmail.com",
+      "password": "1212"
+    },
+    {
+      "id": 3,
+      "email": "pedro@gmail.com",
+      "password": "1991"
+    },
+    {
+      "id": 4,
+      "email": "maria@gmail.com",
+      "password": "159357"
+    },
+    {
+      "id": 5,
+      "email": "isabel@gmail.com",
+      "password": "plusti123"
+    },
+    {
+      "id": 6,
+      "email": "ruiz@gmail.com",
+      "password": "1515"
+    }
+  ],
+  "empresas": [
+    {
+      "id": 1,
+      "nombre": "Duolingo",
+      "fechaInicio": "01/11/2001",
+      "horaInicio": "12:40 A.M.",
+      "direccion": "Petén"
+    },
+    {
+      "id": 2,
+      "nombre": "Google",
+      "fechaInicio": "02/02/2002",
+      "horaInicio": "2:00 A.M.",
+      "direccion": "Zacapa"
+    },
+    {
+      "id": 3,
+      "nombre": "DELL",
+      "fechaInicio": "03/03/2003",
+      "horaInicio": "3:00 A.M.",
+      "direccion": "Huehuetenango"
+    },
+    {
+      "id": 4,
+      "nombre": "HP",
+      "fechaInicio": "05/05/2005",
+      "horaInicio": "5:00 A.M.",
+      "direccion": "Zona 5"
+    },
+    {
+      "id": 5,
+      "nombre": "Honda",
+      "fechaInicio": "06/22/2006",
+      "horaInicio": "6:00 A.M.",
+      "direccion": "Izabal"
+    },
+    {
+      "id": 6,
+      "nombre": "Tesla",
+      "fechaInicio": "02/01/2020",
+      "horaInicio": "1:00 A.M.",
+      "direccion": "Zona 1"
+    },
+    {
+      "id": 7,
+      "nombre": "Amazon",
+      "fechaInicio": "04/08/2022",
+      "horaInicio": "12:40 A.M.",
+      "direccion": "Zona 11"
+    },
+    {
+      "id": 8,
+      "nombre": "Pinulito",
+      "fechaInicio": "06/08/2022",
+      "horaInicio": "8:20 A.M.",
+      "direccion": "Zona 12"
+    },
+    {
+      "id": 9,
+      "nombre": "Coca Cola",
+      "fechaInicio": "12/24/2018",
+      "horaInicio": "12:20 A.M.",
+      "direccion": "Zona 21"
+    }
+  ],
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Alejandro",
+      "apellido": "López ",
+      "email": "alopez@gmail.com",
+      "direccion": "Sololá ",
+      "empresa": 5
+    },
+    {
+      "id": 2,
+      "nombre": "Lucas",
+      "apellido": "Hernandez",
+      "email": "lhernandez@gmail.com",
+      "direccion": "Chimaltenango",
+      "empresa": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Mateo",
+      "apellido": "Juarez",
+      "email": "mrodriguez@gmail.com",
+      "direccion": "Zona 11",
+      "empresa": 8
+    },
+    {
+      "id": 4,
+      "nombre": "David",
+      "apellido": "Fernández",
+      "email": "dfernandez",
+      "direccion": "Zona 19",
+      "empresa": 3
+    }
+  ],
+  "telefonos": [
+    {
+      "id": 1,
+      "tipo": "Casa",
+      "pais": "Guatemala",
+      "numero": "14752863",
+      "empleado": 1
+    },
+    {
+      "id": 2,
+      "tipo": "Trabajo",
+      "pais": "Guatemala",
+      "numero": "12365487",
+      "empleado": 3
+    },
+    {
+      "id": 3,
+      "tipo": "Casa",
+      "pais": "Guatemala",
+      "numero": "56789845",
+      "empleado": 2
+    }
+  ]
+}
